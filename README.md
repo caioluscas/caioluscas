@@ -30,6 +30,6 @@
  
   
 </div>
- ![Snake animation](https://github.com/caioluscas/caioluscas/blob/output/github-contribution-grid-snake.svg)
-<!-- <img src = "https://github.com/caioluscas/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/> -->
+<!--  ![Snake animation](https://github.com/caioluscas/caioluscas/blob/output/github-contribution-grid-snake.svg) -->
+<img src = "https://github.com/caioluscas/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/>
 
