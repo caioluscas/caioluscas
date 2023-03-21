@@ -30,6 +30,6 @@
  
   
 </div>
-<!--  ![Snake animation](https://github.com/caioluscas/caioluscas/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/caioluscas/caioluscas/blob/output/github-contribution-grid-snake.svg)
 <!-- <img src = "https://github.com/caioluscas/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/> -->
-<p align = "center"> <img align ="center" src="https://profile-counter.glitch.me/formandodev/count.svg"/></p> 
+
