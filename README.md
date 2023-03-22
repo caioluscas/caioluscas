@@ -23,8 +23,6 @@
   <a href="https://www.youtube.com/channel/UCsULzSQr6Rb8l7ScUi9qKlg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/caioluscas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-lucas-7951b01a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
 </div>
 <!--  ![Snake animation](https://github.com/caioluscas/caioluscas/blob/output/github-contribution-grid-snake.svg) -->
 <img src = "https://github.com/caioluscas/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/>
