@@ -2,6 +2,8 @@
 - 😎Estudando Java
 - 📚Desenvolvedor em aprendizado
 - 🎈Amo animes e filmes de ficção científica
+
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&count_private=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&layout=compact)](https://github.com/caioluscas/github-readme-stats)
 
