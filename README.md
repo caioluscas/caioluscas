@@ -9,6 +9,7 @@
 </div> -->
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true)
 
 
 <div style="display: inline_block"><br>
