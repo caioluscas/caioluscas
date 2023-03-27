@@ -2,16 +2,16 @@
 - 😎Estudando Java
 - 📚Desenvolvedor em aprendizado
 - 🎈Amo animes e filmes de ficção científica
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/caioluscas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
-  <div align="center">
-  <a href="https://github.com/glattanz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glattanz&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glattanz&layout=compact&langs_count=7&theme=bear"/>
+<div align="center">
+  <a href="https://github.com/caioluscas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: inline_block"><br>
