@@ -4,7 +4,7 @@
 - 🎈Amo animes e filmes de ficção científica
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&count_private=true&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true&theme=merko)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true&theme=merko) -->
 
 
 
