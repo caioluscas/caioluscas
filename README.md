@@ -3,9 +3,13 @@
 - 📚Desenvolvedor em aprendizado
 - 🎈Amo animes e filmes de ficção científica
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&count_private=true&theme=merko) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&theme=merko&layout=compact)](https://github.com/caioluscas/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/caioluscas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioluscas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioluscas&count_private=true&theme=merko) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioluscas&theme=merko&layout=compact)](https://github.com/caioluscas/github-readme-stats) -->
 
 
 
